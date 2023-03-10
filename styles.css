@@ -4,3 +4,34 @@
     font-size: 30px;
     
 }
+
+.miniHeading{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tableauPlaceholder{
+    /* text-align: center; */
+    
+    position:absolute;
+    left: calc(15%);
+    
+}
+
+.imgs{
+    width: 45%;
+    
+    text-align: center;
+}
+
+body{
+    background-image: url('https://cutewallpaper.org/25/animated-white-wallpaper-gif/cute-gif-images-white-website-background-gif.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
